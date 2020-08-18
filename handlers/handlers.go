@@ -59,6 +59,6 @@ func WinnersHandler(res http.ResponseWriter, req *http.Request) {
 		AddNewWinner(res, req)
 		return
 	default:
-		res.WriteHeader(http.StatusNotImplemented)
+		res.WriteHeader(http.StatusMethodNotAllowed)
 	}
 }
