@@ -2,7 +2,7 @@ package handlers
 
 import (
 	"bytes"
-	"golang-fifa-world-cup-web-service/data"
+	"github.com/nbugash/golang-fifa-world-cup-web-service/data"
 	"net/http"
 	"net/http/httptest"
 	"testing"

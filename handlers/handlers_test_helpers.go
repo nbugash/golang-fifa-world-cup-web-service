@@ -1,7 +1,7 @@
 package handlers
 
 import (
-	"golang-fifa-world-cup-web-service/data"
+	"github.com/nbugash/golang-fifa-world-cup-web-service/data"
 	"path"
 	"path/filepath"
 )

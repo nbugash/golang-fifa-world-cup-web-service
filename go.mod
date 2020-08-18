@@ -1,3 +1,3 @@
-module golang-fifa-world-cup-web-service
+module github.com/nbugash/golang-fifa-world-cup-web-service
 
-go 1.13
+go 1.15
