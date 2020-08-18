@@ -2,10 +2,10 @@ package handlers
 
 import (
 	"encoding/json"
-	"github.com/nbugash/golang-fifa-world-cup-web-service/data"
 	"go/ast"
 	"go/parser"
 	"go/token"
+	"golang-fifa-world-cup-web-service/data"
 	"io/ioutil"
 	"log"
 	"net/http"
